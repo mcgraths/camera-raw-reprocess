@@ -1,5 +1,5 @@
 /* ============================================================================================== */
-/* Custom Camera Raw Processing - Version 1.0                                                     */
+/* Camera Raw Reprocess - Version 1.0                                                     */
 /* Created by Code & Hustle (http://www.codeandhustle.com/)                                       */
 /* Based on code by Michael Hale (https://forums.adobe.com/thread/623234) and Paul Riggott        */
 /* (https://forums.adobe.com/thread/290125?start=0&tstart=0)                                      */
@@ -9,7 +9,7 @@
 
 /*
 <javascriptresource> 
-<name>Custom Camera Raw Processing</name>
+<name>Camera Raw Reprocess</name>
 <category>a</category> 
 </javascriptresource>
 */
