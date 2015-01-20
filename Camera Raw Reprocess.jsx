@@ -10,7 +10,7 @@
 /*
 <javascriptresource> 
 <name>Camera Raw Reprocess</name>
-<category>a</category> 
+<category>acr</category> 
 </javascriptresource>
 */
 
@@ -26,7 +26,6 @@ var versions = {};
 var config = {
 	LayerMask: "Hide" //Options are: Reveal, Hide, None
 }
-
 
 // See README.md for instructions on the following
 
